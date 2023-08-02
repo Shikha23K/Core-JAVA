@@ -1,4 +1,4 @@
-package StringMethods;
+package JavaConcepts;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Collections;
@@ -39,10 +39,6 @@ public class array_listt {
 		
 		odd.set(3,3);
 		System.out.println("The odd List after replacing 4th  :  "+odd);
-		
-				
-		
-		
 		
 						
 		ArrayList<String> fruit=new ArrayList<String>();

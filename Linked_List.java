@@ -1,4 +1,4 @@
-package StringMethods;
+package JavaConcepts;
 import java.util.Collections;
 import java.util.LinkedList;
 public class Linked_List {
@@ -9,6 +9,8 @@ public class Linked_List {
 		animal.add("Cat");
 		animal.add("Tiger");
 		animal.add("Lion");
+		
+		
 		System.out.println("Animal List contains : "+animal);
 		System.out.println("Size of animal List  : "+animal.size());
 		Collections.sort(animal);
